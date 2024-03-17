@@ -1,0 +1,7 @@
+#?RADIANCE
+# Output from cmft.
+FORMAT=32-bit_rle_rgbe
+EXPOSURE=1
+
+-Y 16 +X 32
+†sG~†sG~†sG~†sG~†sG~†sG~†sG~†sG~†sG~†sG~†sG~†sG~†sG~†sG~†sG~†sG~†sG~†sG~†sG~†sG~†sG~†sG~†sG~†sG~†sG~†sG~†sG~†sG~†sG~†sG~†sG~†sG~¤ŠS~¦ŒV~¦W~¥X~¢ŒX~Ÿ‹X~‰W~™†V~•ƒT~‘€R~Œ|P~‡xM~‚sJ~úÝŽ}ñÕ‡}éÌ}áÅ|}Û¾v}Õ¸r}Ñ´n}Ò´m}Ù¸o}â¾r}ìÅu}÷Íy}j?~†nA~‹sC~”zG~œL~¡†P~¤ŠS~Õ¯i~Ó°l~Ì­k~Á¦h~¸ f~±œd~¬™c~§•a~¢‘_~œŒ\~”…X~‹|Q~tK~ð×‹}ßÆ}Òºv}Æ¯m}¼¤f}¸ b}·ž`}¶œ^}¶›\}¿ _}Ö²j}ïÅu}…mA~€L~²U~Â\~Í¥a~Ó«e~Õ¯i~‰nA„mCèÄz~Í°o~Á¨k~¸¢h~³žf~®›e~©—c~¢‘_~˜ˆY~Œ~R~€sJ~êÐ…}Ö¼v}Æ®k}º¢c}±š]}ª”Y}¦V}¥ŽU}©V}®“X}È¨f}ìÅx}˜~N~¿œ`~Þ²j~øÃp~…h;Œo?‰nAë¬P~ß¬Y~Í§`~Ð²o~Ñ·u~Ô¼z~‡{UƒySùåž~ÝÉ‹~ž\~‹{O~÷Ù‡}ÞÀu}½žW}®N}¡…G}š€F}Ÿ‰P}œ‡P}ž‰R} ‹T}°œf}±™_}¶˜Z}Õ¯f}¸”X~çµf~€`1ò§B~õ­I~ë¬P~¯|3~±‡C~Ä¢c~Œ~XÑÆ“ÛÑœØÏ›ÏÇ•ÂºŒ§žvþë¬~¢‘b~Á£]}´”O}ªˆE}šy:}‰k2}ƒg2}…l7}{G}Ã»}ëêÂ}çá·}Ê¹ˆ}©ŽU}¤‚F}¶‰A}í©H}¡k#~®t&~²z,~¯|3~‹g/~šzC~Ë°v~¶ª‚—“u€™—x€’r€ŒŠm€„f€âÜ­§Ÿ|»­~ž†O}€D}œ{<}m1}ö¸P|è¯N|î¼\|ŒzJ}Š€~­¸­~œ¡“~ôëÁ}­’]}”t=}g,}¡o*}é :}Z"~ˆa(~‹g/~ô¿h}uH~Æ°}~º±‹£¡…€¨¨Š€¢¡„€ Ÿ‚€—–z€‚g€¼¶’Äº~ƒrG}Žt?}™x;}‘n2}øºR|æ­N|é¸\|ŒzN} ¨›~ÎÞ×~µ½±~Š…q~»f}™xA}†c.}‹e,}ÂD}×¡O}ç±Z}ô¿h}å·j}€iA~ˆ]~ƒz_ôðÇ…„n€‡…o€ŽŒt€‰‡o€êå»¤Ÿ€«¢~~õÓ„|s?}Ÿ~B} |>}Žn6}ƒf3}‚h7}—~N}Š…p~¬ª—~¡šƒ~†x[~Ñ¨g}¬„G}’m6}Žj4}®‡H}¼“Q}Ó§^}å·j}å²e}ò¾p}ùÇ|}š„^~‡f¡š~±ª‹ÉÂžÆ¿œ¨¢‚æÞ®~€xY~øÎ{|q?}¡~D}¦E}šx@}•u@}œ{E}¶‘T}ýÓŽ}“\~•~Z~ŠqI~ö½l}ÑœS}³ƒC}¦z>}°†G}ºN}Ó£[}å²e}ã¨[}å©\}ÖV}Ïœ\}yV~ª“l~È²†~ëÖ¥~ëÛ©~Ç¼~‹„a~°£n}ôÀl|ˆg8}—t>}ŸyB}švA}yE}­‡O}Êž\}ûÁo}ˆj?~nB~Œl?~…e8~ë¯_}Ï—O}»†C}Á‹E}Ç’K}Ø U}ã¨[}ËŽH}Ç‹G}¾„C}­x?}¹ƒG}Â‹N}ë¶r}€gD~úÓ}Ø»}}ƒg;}ßª\|Í”J|Ñ“H|^0}‡b4}‡d6}Žk>}‰h=}œyI}°ˆQ}Â–Z}úÀp}þÂr}ö¼n}Þ§`}¡s=}–f1}—e.}¾„?}Æ‹E}ËŽH}ç—E|ê›I|þ«T|†[.}Žb3}”g7}”i8}f7}…_3}ð«Z|Ô–M|º‚A|®w9|§q5|¢m3|¡m4| n6|¨u=|´‚H|ÃR|Ú¢`|í²k|öºq|ùºp|ñ±h|ç¤[|Û–L|ÕB|Óˆ<|Û>|ÜŽ?|ç—E|´t4|¸x6|¿~;|Ë‡A|ÒE|ÔG|ÐŽG|ÌŒF|Å‡C|¸~>|®v9|¤n5|™g0|_,|‡Y(|„W(|U'|ù£K{„Y+|Œ_0|c3|c3|‘c3|™h5|šg3|še0| h0|¤j/|§k/|¨k.|­o0|´t4|žf-|¡h/|¢j0|£k0|¤l1|¦m3|¦n3|¤m3|¢l2|ži1|˜e/|“a-|Ž^+|‹[*|ˆY(|…W'|‚U&|S%|ú¢H{õžF{ú¡H{S&|„V'|‡X(|ŠY(|ŒZ(|Ž[(|['|“^(|—a*|›d,|žf-|Ž\)|Ž\)|Ž\)|Ž\)|Ž\)|Ž\)|Ž\)|Ž\)|Ž\)|Ž\)|Ž\)|Ž\)|Ž\)|Ž\)|Ž\)|Ž\)|Ž\)|Ž\)|Ž\)|Ž\)|Ž\)|Ž\)|Ž\)|Ž\)|Ž\)|Ž\)|Ž\)|Ž\)|Ž\)|Ž\)|Ž\)|Ž\)|
